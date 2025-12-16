@@ -32,9 +32,7 @@ Provides detailed information about a selected product including price and descr
 Displays selected products, quantities, and total price before checkout.
 ![Cart Page](screenshots/cart.png)
 
-### 💳 Online Payment Page
-Simulates the online payment flow and checkout process.
-![Pay Online](screenshots/payonline.PNG
+
 
 ---
 
