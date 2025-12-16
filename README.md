@@ -12,7 +12,7 @@ Below is a walkthrough of the main user flow, with each screen explaining its pu
 
 Displays featured products, categories, and the main entry point of the application.
 
-`/screenshots/home.png`
+`screenshots/home.png`
 
 ---
 
@@ -20,7 +20,7 @@ Displays featured products, categories, and the main entry point of the applicat
 
 Allows new users to create an account with form validation and user-friendly feedback.
 
-`/screenshots/register.png`
+`screenshots/register.png`
 
 ---
 
@@ -28,7 +28,7 @@ Allows new users to create an account with form validation and user-friendly fee
 
 Enables existing users to securely log in to the application.
 
-`/screenshots/login.png`
+`screenshots/login.png`
 
 ---
 
@@ -36,7 +36,7 @@ Enables existing users to securely log in to the application.
 
 Shows the full list of available products with a clean and responsive layout.
 
-`/screenshots/products.png`
+`screenshots/products.png`
 
 ---
 
@@ -44,7 +44,7 @@ Shows the full list of available products with a clean and responsive layout.
 
 Provides detailed information about a selected product including price and description.
 
-`/screenshots/productdetails.png`
+`screenshots/productdetails.png`
 
 ---
 
@@ -52,7 +52,7 @@ Provides detailed information about a selected product including price and descr
 
 Displays selected products, quantities, and total price before checkout.
 
-`/screenshots/cart.png`
+`screenshots/cart.png`
 
 ---
 
@@ -60,7 +60,7 @@ Displays selected products, quantities, and total price before checkout.
 
 Simulates the online payment flow and checkout process.
 
-`/screenshots/payonline.png`
+`screenshots/payonline.png`
 
 ---
 
