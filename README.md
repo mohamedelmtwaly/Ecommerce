@@ -34,7 +34,7 @@ Displays selected products, quantities, and total price before checkout.
 
 ### 💳 Online Payment Page
 Simulates the online payment flow and checkout process.
-![Pay Online](screenshots/payonline.png)
+![Pay Online](screenshots/payonline.PNG
 
 ---
 
