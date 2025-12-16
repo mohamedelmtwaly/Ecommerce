@@ -9,58 +9,32 @@
 Below is a walkthrough of the main user flow, with each screen explaining its purpose clearly:
 
 ### 🏠 Home Page
-
 Displays featured products, categories, and the main entry point of the application.
-
-`screenshots/home.png`
-
----
+![Home Page](screenshots/home.png)
 
 ### 📝 Register Page
-
 Allows new users to create an account with form validation and user-friendly feedback.
-
-`screenshots/register.png`
-
----
+![Register Page](screenshots/register.png)
 
 ### 🔐 Login Page
-
 Enables existing users to securely log in to the application.
-
-`screenshots/login.png`
-
----
+![Login Page](screenshots/login.png)
 
 ### 🛍️ Products Page
-
 Shows the full list of available products with a clean and responsive layout.
-
-`screenshots/products.png`
-
----
+![Products Page](screenshots/products.png)
 
 ### 📄 Product Details Page
-
 Provides detailed information about a selected product including price and description.
-
-`screenshots/productdetails.png`
-
----
+![Product Details](screenshots/productdetails.png)
 
 ### 🛒 Cart Page
-
 Displays selected products, quantities, and total price before checkout.
-
-`screenshots/cart.png`
-
----
+![Cart Page](screenshots/cart.png)
 
 ### 💳 Online Payment Page
-
 Simulates the online payment flow and checkout process.
-
-`screenshots/payonline.png`
+![Pay Online](screenshots/payonline.png)
 
 ---
 
